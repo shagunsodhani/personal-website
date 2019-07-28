@@ -53,7 +53,7 @@ social_media:
 topics:
   - name: Research
     web_url: https://scholar.google.ca/citations?user=ixp-vqMAAAAJ&hl=en
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: /assets/imgs/logos/scholar.png
     image_width: 64
     image_height: 64
 
@@ -69,7 +69,7 @@ topics:
     image_width: 90
     image_height: 64
 
-  - name: Professional Services
+  - name: Services
     web_url: /service/
     image_url: /assets/imgs/logos/service.jpg 
     image_width: 64
