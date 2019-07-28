@@ -52,15 +52,15 @@ social_media:
 
 topics:
   - name: Research
-    web_url: https://shagunsodhani.github.io/research
+    web_url: https://scholar.google.ca/citations?user=ixp-vqMAAAAJ&hl=en
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
     image_width: 64
     image_height: 64
 
   - name: Projects
     web_url: /projects/
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-    image_width: 64
+    image_url: /assets/imgs/logos/project.jpg
+    image_width: 128
     image_height: 64
 
   - name: Talks
