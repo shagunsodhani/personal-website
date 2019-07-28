@@ -51,12 +51,79 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Research
+    web_url: https://shagunsodhani.github.io/research
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_width: 64
+    image_height: 64
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
+  - name: Projects
+    web_url: /projects/
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_width: 64
+    image_height: 64
+
+  - name: Talks
+    web_url: https://shagunsodhani.github.io/talks/
+    image_url: /assets/imgs/logos/talk.jpeg  
+    image_width: 90
+    image_height: 64
+
+  - name: Professional Services
+    web_url: https://shagunsodhani.github.io/services/
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_width: 64
+    image_height: 64
+
+  - name: Teaching/Mentoring
+    web_url: /mentoring
+    image_url: /assets/imgs/logos/mentor.jpg  
+    image_width: 128
+    image_height: 64
+
+  # - name: CV
+  #   web_url: https://shagunsodhani.github.io/teaching/
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+mentoring:
+  - name: AI Mentor
+    description: CBC-Radio Canada Hackathon, 2019
+    web_url: https://www.agorize.com/en/challenges/cbc-radio-canada-hackathon-2019
+    image_url: /assets/imgs/logos/cbc.png
+    image_width: 128
+    image_height: 64
+
+  - name: Teaching Assistant
+    description: Data Mining Techniques, Masters Course, HEC, Montreal, 2019
+    web_url: https://www.hec.ca/en/courses/detail/?cours=MATH60600A
+    image_url: /assets/imgs/logos/hec.gif
+    image_width: 64
+    image_height: 64
+
+  - name: Teaching Assistant
+    description: Data Mining Techniques, Masters Course, HEC, Montreal, 2018
+    web_url: https://www.hec.ca/en/courses/detail/?cours=MATH60600A
+    image_url: /assets/imgs/logos/hec.gif
+    image_width: 64
+    image_height: 64
+
+  - name: Mentor
+    description: AI for Social Good Lab, 2018
+    web_url: https://www.aiforsocialgood.ca
+    image_url: /assets/imgs/logos/ai_for_social_good.jpg
+    image_width: 128
+    image_height: 64
+
+  - name: Mentor
+    description: Educational Program for Employees, Adobe Systems, 2017
+    web_url: https://www.adobe.com
+    image_url: /assets/imgs/logos/adobe.jpg
+    image_width: 64
+    image_height: 64
+
+  - name: Teaching Assistant
+    description: Data Science and Engineering with Spark XSeries
+    web_url: https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
+    image_url: /assets/imgs/logos/edx.png
+    image_width: 128
+    image_height: 64
