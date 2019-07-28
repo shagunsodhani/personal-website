@@ -59,8 +59,8 @@ topics:
 
   - name: Projects
     web_url: /projects/
-    image_url: /assets/imgs/logos/project.jpg
-    image_width: 128
+    image_url: /assets/imgs/logos/github.jpg
+    image_width: 80
     image_height: 64
 
   - name: Talks
@@ -70,8 +70,8 @@ topics:
     image_height: 64
 
   - name: Professional Services
-    web_url: https://shagunsodhani.github.io/services/
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: /service/
+    image_url: /assets/imgs/logos/service.jpg 
     image_width: 64
     image_height: 64
 
@@ -80,10 +80,6 @@ topics:
     image_url: /assets/imgs/logos/mentor.jpg  
     image_width: 128
     image_height: 64
-
-  # - name: CV
-  #   web_url: https://shagunsodhani.github.io/teaching/
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 mentoring:
   - name: AI Mentor
@@ -127,3 +123,79 @@ mentoring:
     image_url: /assets/imgs/logos/edx.png
     image_width: 128
     image_height: 64
+
+service:
+
+  organizer:
+
+    - name: Organizer
+      description: Lifelong Learning - A Reinforcement Learning Approach, RLDM 2019
+      web_url: https://sites.google.com/view/llarla/home
+      image_url: /assets/imgs/logos/rldm.png
+      image_width: 80
+      image_height: 80
+
+    - name: Organizer
+      description: Workshop on Multi-Task and Lifelong Reinforcement Learning, ICML 2019
+      web_url: https://sites.google.com/view/mtlrl/
+      image_url: /assets/imgs/logos/icml.jpg
+      image_width: 80
+      image_height: 80
+
+    - name: Organizer
+      description: Workshop on Deep Learning for Graphs, SDM (2019)
+      web_url: https://sites.google.com/view/graph-representation-workshop/
+      image_url: /assets/imgs/logos/sdm.png
+      image_width: 128
+      image_height: 80
+
+  reviewer:
+
+    - name: Reviewer
+      description: International Conference for Learning Representations (ICLR)
+      web_url: https://iclr.cc
+      image_url: /assets/imgs/logos/iclr.png
+      image_width: 80
+      image_height: 80
+
+    - name: Reviewer
+      description: PyData Conference, Delhi 
+      web_url: https://pydata.org/delhi2019/
+      image_url: /assets/imgs/logos/pydata.png
+      image_width: 160
+      image_height: 80
+
+    - name: Reviewer
+      description: Montreal AI Symposium (MAIS)
+      web_url: https://montrealaisymposium.wordpress.com
+      image_url: /assets/imgs/logos/mais.png
+      image_width: 160
+      image_height: 80
+
+    - name: Program Committee
+      description: Learning and Reasoning with Graph-Structured Representations, ICML 2019 Workshop
+      web_url: https://graphreason.github.io/index.html
+      image_url: /assets/imgs/logos/icml.jpg
+      image_width: 80
+      image_height: 80
+
+    - name: Reviewer
+      description: AI for Social Good, ICML 2019 Workshop
+      web_url: https://aiforsocialgood.github.io/icml2019/
+      image_url: /assets/imgs/logos/aisg.png
+      image_width: 128
+      image_height: 80
+
+    - name: Program Committee
+      description: Representation Learning on Graphs and Manifolds, ICLR 2019 Workshop
+      web_url: https://rlgm.github.io/
+      image_url: /assets/imgs/logos/rlgm.png
+      image_width: 128
+      image_height: 80
+
+    - name: Reviewer
+      description: AI for Social Good, NeurIPS 2018 Workshop
+      web_url: https://aiforsocialgood.github.io/2018/
+      image_url: /assets/imgs/logos/aisg.png
+      image_width: 128
+      image_height: 80
