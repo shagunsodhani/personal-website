@@ -1,6 +1,6 @@
-<h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Services</h2>
-
-<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Conferences/Workshops that I have organised</p>
+<h3 {% if site.style == 'dark' %}class="text-white"{% endif %}>Professional Services</h3>
+<p>
+<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Conferences/Workshops that I have organised</p>
 
 <div class="d-flex flex-wrap gutter-condensed mb-4">
   {% for service in site.service.organizer %}
@@ -10,7 +10,7 @@
   {% endfor %}
 </div>
 
-<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Conferences/Workshops that I have reviewed for</p>
+<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Reviewer</p>
 
 <div class="d-flex flex-wrap gutter-condensed mb-4">
   {% for service in site.service.reviewer %}

@@ -1,6 +1,6 @@
 {% if service.web_url %}
   <a href="{{ service.web_url }}" class="github-component position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-white p-5">
-    {% if service.image_url %}
+<!--     {% if service.image_url %}
       <img src="{{ service.image_url }}" width="{{ service.image_width }}" height="{{ service.image_height }}" class="mx-auto rounded-1 mb-3" alt="{{ service.name }}">
     {% else %}
       <div
@@ -9,15 +9,15 @@
       >
         #
       </div>
-    {% endif %}
-    <p class="f3 lh-condensed text-center link-gray-dark mb-0 mt-1">{{ service.name }}</p>
+    {% endif %} -->
+    <p class="f4 lh-condensed text-center link-gray-dark mb-0 mt-1">{{ service.name }}</p>
     {% if service.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ service.description }}</p>
     {% endif %}
   </a>
 {% else %}
   <div class="github-component position-relative height-full text-center border border-gray-light rounded-1 bg-white p-5">
-    {% if service.image_url %}
+    <!-- {% if service.image_url %}
       <img src="{{ service.image_url }}" width="64" height="64" class="mx-auto rounded-1 mb-3" alt="{{ service.name }}">
     {% else %}
       <div
@@ -26,8 +26,8 @@
       >
         #
       </div>
-    {% endif %}
-    <p class="f3 lh-condensed text-center mb-0 mt-1">{{ service.name }}</p>
+    {% endif %} -->
+    <p class="f4 lh-condensed text-center mb-0 mt-1">{{ service.name }}</p>
     {% if service.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ service.description }}</p>
     {% endif %}
