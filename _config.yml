@@ -75,7 +75,7 @@ topics:
     image_width: 64
     image_height: 64
 
-  - name: Teaching/Mentoring
+  - name: Mentoring
     web_url: /mentoring
     image_url: /assets/imgs/logos/mentor.jpg  
     image_width: 128
@@ -83,6 +83,13 @@ topics:
 
 mentoring:
   
+  - name: Mentor
+    description: Mila Mentorship Program, 2019
+    web_url: https://mila.quebec/en/
+    image_url: /assets/imgs/logos/mila.png
+    image_width: 157
+    image_height: 64
+
   - name: Scientist in Residence
     description: NextAI, 2019
     web_url: https://www.nextcanada.com/next-ai
@@ -139,6 +146,13 @@ service:
     - name: 4th Lifelong Learning Workshop, ICML 2020
       description: Organizer
       web_url: https://lifelongml.github.io/
+      # image_url: /assets/imgs/logos/rldm.png
+      # image_width: 80
+      # image_height: 80
+
+    - name: Retrospectives Workshop, NeurIPS 2019
+      description: Organizer
+      web_url: https://ml-retrospectives.github.io/neurips2019/
       # image_url: /assets/imgs/logos/rldm.png
       # image_width: 80
       # image_height: 80
@@ -209,6 +223,13 @@ service:
     - name: Workshop on Graph Representation Learning and Beyond, ICML 2020
       description: Program Committee
       web_url: https://grlplus.github.io/
+      # image_url: /assets/imgs/logos/graphreason.png
+      # image_width: 80
+      # image_height: 80
+
+    - name: Graph Representation Learning, NeurIPS 2019 Workshop
+      description: Program Committee
+      web_url: https://grlearning.github.io/
       # image_url: /assets/imgs/logos/graphreason.png
       # image_width: 80
       # image_height: 80
