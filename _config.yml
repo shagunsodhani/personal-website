@@ -84,7 +84,14 @@ topics:
 mentoring:
   
   - name: Mentor
-    description: Mila Mentorship Program, 2019
+    description: ProjectX, 2020
+    web_url: https://www.projectx2020.com/
+    image_url: /assets/imgs/logos/uoft_ai.png
+    image_width: 200
+    image_height: 80
+
+  - name: Mentor
+    description: Mila Mentorship Program, 2020
     web_url: https://mila.quebec/en/
     image_url: /assets/imgs/logos/mila.png
     image_width: 157
