@@ -84,7 +84,7 @@ topics:
 mentoring:
   
   - name: Office Hours
-    description: Facebook's Startup Program
+    description: Facebook Startup Program
     web_url: https://developers.facebook.com/startups/
     image_url: /assets/imgs/logos/facebook_for_developers.svg
     image_width: 200
