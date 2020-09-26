@@ -1,21 +1,23 @@
-<h3 {% if site.style == 'dark' %}class="text-white"{% endif %}>Professional Services</h3>
+<h3 {% if site.style == 'dark' %}class="text-white" {% endif %}>Professional Services</h3>
 <p>
-<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Conferences/Workshops that I have organised</p>
+<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Conferences/Workshops that I
+  have organised</p>
 
 <div class="d-flex flex-wrap gutter-condensed mb-4">
   {% for service in site.service.organizer %}
-    <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
-      {% include service-card.html %}
-    </div>
+  <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+    {% include service-card.html %}
+  </div>
   {% endfor %}
 </div>
 
-<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Reviewer</p>
+<p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Program Committee / Reviewer
+</p>
 
 <div class="d-flex flex-wrap gutter-condensed mb-4">
   {% for service in site.service.reviewer %}
-    <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
-      {% include service-card.html %}
-    </div>
+  <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+    {% include service-card.html %}
+  </div>
   {% endfor %}
 </div>
