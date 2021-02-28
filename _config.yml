@@ -208,6 +208,13 @@ service:
       # image_width: 80
       # image_height: 80
       
+    - name: Conference on Computer Vision and Pattern Recognition (CVPR)
+      description: Reviewer
+      web_url: http://cvpr2021.thecvf.com/
+      # image_url: /assets/imgs/logos/iclr.png
+      # image_width: 80
+      # image_height: 80
+
     - name: Conference on Neural Information Processing Systems (NeurIPS)
       description: Reviewer
       web_url: https://nips.cc/Conferences
