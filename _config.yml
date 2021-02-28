@@ -157,6 +157,13 @@ service:
 
   organizer:
 
+    - name: JOURNE (Journal of Opportunities, Unexpected limitations, Retrospectives, Negative results, and Experiences) Workshop, MLSys 2021
+      description: Organizer
+      web_url: https://sites.google.com/view/workshop-journe/home
+      # image_url: /assets/imgs/logos/rldm.png
+      # image_width: 80
+      # image_height: 80
+    
     - name: 4th Lifelong Learning Workshop, ICML 2020
       description: Organizer
       web_url: https://lifelongml.github.io/
@@ -194,6 +201,13 @@ service:
 
   reviewer:
 
+    - name: International Conference on Machine Learning (ICML)
+      description: Reviewer
+      web_url: https://icml.cc/
+      # image_url: /assets/imgs/logos/iclr.png
+      # image_width: 80
+      # image_height: 80
+      
     - name: Conference on Neural Information Processing Systems (NeurIPS)
       description: Reviewer
       web_url: https://nips.cc/Conferences
