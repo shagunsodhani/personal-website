@@ -84,19 +84,40 @@ topics:
 mentoring:
   
   - name: Mentor
-    description: Mila Mentorship Program, 2020-21
+    description: Mila Mentorship Program, 2020-*
     web_url: https://mila.quebec/en/
     image_url: /assets/imgs/logos/mila.png
     image_width: 157
     image_height: 64
   
   - name: Mentor
-    description: Alumni Mentorship Program, 2021
+    description: Facebook AI's Co-teaching Program, 2021-*
+    web_url: https://ai.meta.com/blog/facebook-ai-co-teaching-program-to-increase-pathways-ai-for-diverse-candidates/
+    image_url: /assets/imgs/logos/meta.jpeg
+    image_width: 200
+    image_height: 80
+
+  - name: Mentor
+    description: Alumni Mentorship Program, 2021-*
     web_url: https://www.iitramp.org/
     image_url: /assets/imgs/logos/amp.jpeg
-    image_width:
-    image_height:
+    image_width: 200
+    image_height: 80
+
+  - name: Mentor
+    description: LatinX in AI Mentorship Program, 2021
+    web_url: https://www.latinxinai.org/mentorship-program
+    image_url: /assets/imgs/logos/latinx.jpeg
+    image_width: 200
+    image_height: 80
     
+  - name: Office Hours
+    description: NeurIPS IGLU Competition, 2021
+    web_url: https://www.iglu-contest.net/home
+    image_url: /assets/imgs/logos/facebook_for_developers.svg
+    image_width: 200
+    image_height: 80
+
   - name: Office Hours
     description: Facebook Startup Program, 2020
     web_url: https://developers.facebook.com/startups/
@@ -154,7 +175,7 @@ mentoring:
     image_height: 64
 
   - name: Teaching Assistant
-    description: Data Science and Engineering with Spark XSeries
+    description: Data Science and Engineering with Spark XSeries, 2016
     web_url: https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
     image_url: /assets/imgs/logos/edx.png
     image_width: 128
