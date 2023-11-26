@@ -94,21 +94,21 @@ mentoring:
     description: Facebook AI's Co-teaching Program, 2021-*
     web_url: https://ai.meta.com/blog/facebook-ai-co-teaching-program-to-increase-pathways-ai-for-diverse-candidates/
     image_url: /assets/imgs/logos/meta.png
-    image_width: 200
+    image_width:
     image_height: 80
 
   - name: Mentor
     description: Alumni Mentorship Program, 2021-*
     web_url: https://www.iitramp.org/
     image_url: /assets/imgs/logos/amp.jpeg
-    image_width: 200
+    image_width: 
     image_height: 80
 
   - name: Mentor
     description: LatinX in AI Mentorship Program, 2021
     web_url: https://www.latinxinai.org/mentorship-program
     image_url: /assets/imgs/logos/lxai.png
-    image_width: 200
+    image_width: 
     image_height: 80
     
   - name: Office Hours
