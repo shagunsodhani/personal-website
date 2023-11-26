@@ -115,7 +115,7 @@ mentoring:
     description: NeurIPS IGLU Competition, 2021
     web_url: https://www.iglu-contest.net/
     image_url: /assets/imgs/logos/iglu.png
-    image_width: 200
+    image_width: 
     image_height: 80
 
   - name: Office Hours
